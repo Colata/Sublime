@@ -1,3 +1,5 @@
+﻿PUBLIC CHANGES
+﻿
 ﻿using GTA;
 using GTA.Native;
 using GTA.Math;
